@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Raghu!
+# 👋 Hi, I’m Raghunandan!
 
 🎓 **Student | AI Enthusiast | Competitive Programmer**
 
