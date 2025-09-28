@@ -32,12 +32,6 @@ I love making **AI-powered applications** that help people in creative and pract
 
 ---
 
-## 😄 Fun Fact
-
-Why do programmers prefer dark mode?  
-Because light attracts bugs! 🐛
-
----
 
 <!--
 **RealRaghu09/RealRaghu09** is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
