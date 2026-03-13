@@ -14,9 +14,10 @@ I love making **AI-powered applications & ML Models** that help people in creati
 ## 🛠️ Skills & Technologies
 
 - **Languages:** C++, Python, JavaScript
-- **Frameworks & Libraries:** Langchain, langgraph, Pydantic, Numpy, Pandas, scikit-learn, Vite , Pytorch , Matplotlib , HuggingFace , transformers
+- **Frameworks & Libraries:** Langchain, langgraph, Pydantic, Numpy, Pandas, scikit-learn, Vite , Pytorch , Matplotlib , HuggingFace , transformers , PIL
 - **Databases:** MongoDB , MYSQL , PostgesQL
-- **Cloud:** Azure , Azure AI Foundry 
+- **Cloud:** Azure , Azure AI Foundry
+- 
 ---
 
 ##  Featured Projects
@@ -28,10 +29,9 @@ I love making **AI-powered applications & ML Models** that help people in creati
 ---
 
 ##  Interests
-
--  Building AI-powered apps
--  Machine Learning 
+-  OpenSource Contribution
+-  Building 
+-  Machine Learning and Deep Learning
 -  Competitive Programming (CP)
--  Sleeping (machines aren’t the only ones that need downtime!)
 
 ---
