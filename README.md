@@ -4,11 +4,8 @@
 
 ---
 ![Profile Views](https://komarev.com/ghpvc/?username=RealRaghu09&label=Total%20Views&color=0e75b6&style=flat)
-
-##  About Me
-
-I love making **AI-powered applications & ML Models** that help people in creative and practical ways. As a student passionate about technology, I constantly explore new tools and frameworks—building, learning, and sharing along the way.
-
+---
+Contributor @ [OpenSRE](https://www.opensre.com/)
 ---
 
 ## 🛠️ Skills & Technologies
