@@ -5,7 +5,7 @@
 ---
 ![Profile Views](https://komarev.com/ghpvc/?username=RealRaghu09&label=Total%20Views&color=0e75b6&style=flat)
 ---
-Contributor @ [OpenSRE](https://www.opensre.com/)
+Contributed to [OpenSRE](https://www.opensre.com/)
 ---
 
 ## 🛠️ Skills & Technologies
