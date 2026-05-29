@@ -1,7 +1,4 @@
 # Hi, I’m Raghunandan M!
-
-🎓 **Student | AI Enthusiast | Competitive Programmer**
-
 ---
 ![Profile Views](https://komarev.com/ghpvc/?username=RealRaghu09&label=Total%20Views&color=0e75b6&style=flat)
 ---
