@@ -2,9 +2,6 @@
 ---
 ![Profile Views](https://komarev.com/ghpvc/?username=RealRaghu09&label=Total%20Views&color=0e75b6&style=flat)
 ---
-Contributed to [OpenSRE](https://www.opensre.com/)
-
----
 Interests : AI/ML , Web3 , Core-Backend
 ---
 ## 🛠️ Skills & Technologies
